@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256.0" height="256.0" viewBox="0 0 256.0 256.0">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" width="256.0" height="256.0" viewBox="0 0 256.0 256.0">
+  <title>Ready Company Logo</title>
   <rect x="0" y="0" width="256.0" height="256.0" fill="#2b2c2e"/>
   <g transform="translate(0.0,64.79404466501242) scale(0.08109842845326716)">
     <rect fill="#2b2c2e" width="3156.657963446475" height="1558.746736292428"/>
